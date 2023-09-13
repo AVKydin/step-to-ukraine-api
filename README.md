@@ -6,12 +6,13 @@ This project implements the server-side component of the Step To Ukraine applica
 
 (В розробці)
 
-> [![Front-End - GitHub Pages](https://img.shields.io/badge/Front--End-GitHub%20Pages-FFDD00?logo=github&labelColor=0057B7)]()
+> [![Front-End - GitHub Pages](https://img.shields.io/badge/Front--End-GitHub%20Pages-FFDD00?logo=github&labelColor=0057B7)]()  
 > [![Front-End - GitHub Repository](https://img.shields.io/badge/Front--End-GitHub%20Repository-FFDD00?logo=github&labelColor=0057B7)]()
 
 (В розробці)
 
-> [![Back-End - Render](https://img.shields.io/badge/Back--End-Render-000000?logo=render&logoColor=ffffff&labelColor=cd0000)]() > [![Back-End - GitHub Repository](https://img.shields.io/badge/Back--End-GitHub%20Repository-000000?logo=github&labelColor=cd0000)](https://github.com/savchyndd/step-to-ukraine-api)
+> [![Back-End - Render](https://img.shields.io/badge/Back--End-Render-000000?logo=render&logoColor=ffffff&labelColor=cd0000)]()  
+> [![Back-End - GitHub Repository](https://img.shields.io/badge/Back--End-GitHub%20Repository-000000?logo=github&labelColor=cd0000)](https://github.com/savchyndd/step-to-ukraine-api)
 
 ## Technologies Used (В розробці)
 
