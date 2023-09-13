@@ -4,11 +4,14 @@
 
 This project implements the server-side component of the Step To Ukraine application. It is built on Nest TypeScript with Swagger to implement the API and Mongoose for interacting with the MongoDB database.
 
-> [![Front-End - GitHub Pages](https://img.shields.io/badge/Front--End-GitHub%20Pages-FFDD00?logo=github&labelColor=0057B7)]() (В розробці)
-> [![Front-End - GitHub Repository](https://img.shields.io/badge/Front--End-GitHub%20Repository-FFDD00?logo=github&labelColor=0057B7)]() (В розробці)
+(В розробці)
 
-> [![Back-End - Render](https://img.shields.io/badge/Back--End-Render-000000?logo=render&logoColor=ffffff&labelColor=cd0000)]() (В розробці)
-> [![Back-End - GitHub Repository](https://img.shields.io/badge/Back--End-GitHub%20Repository-000000?logo=github&labelColor=cd0000)](https://github.com/savchyndd/step-to-ukraine-api)
+> [![Front-End - GitHub Pages](https://img.shields.io/badge/Front--End-GitHub%20Pages-FFDD00?logo=github&labelColor=0057B7)]()
+> [![Front-End - GitHub Repository](https://img.shields.io/badge/Front--End-GitHub%20Repository-FFDD00?logo=github&labelColor=0057B7)]()
+
+(В розробці)
+
+> [![Back-End - Render](https://img.shields.io/badge/Back--End-Render-000000?logo=render&logoColor=ffffff&labelColor=cd0000)]() > [![Back-End - GitHub Repository](https://img.shields.io/badge/Back--End-GitHub%20Repository-000000?logo=github&labelColor=cd0000)](https://github.com/savchyndd/step-to-ukraine-api)
 
 ## Technologies Used (В розробці)
 
