@@ -22,7 +22,7 @@ Here are some of the key technologies and libraries used in this project:
 
 ## API documentation (В розробці)
 
-For detailed descriptions of API requests and interactions, refer to the: [`Step to Ukraine documentation`]()
+For detailed descriptions of API requests and interactions, refer to the: [`Step to Ukraine documentation`](https://step-to-ukraine.onrender.com/docs)
 
 **User's endpoints**
 
